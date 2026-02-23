@@ -14,7 +14,7 @@ This project provides a reproducible framework to:
 - Generate bar plots with significance letters  
 
 ---
-
+```
 ## Structure
 
 opsonophagocytosis-statistical-pipeline/
@@ -27,7 +27,7 @@ opsonophagocytosis-statistical-pipeline/
 │   └── opsono_data_analysis.R  
 │
 └── README.md  
-
+```
 ---
 
 ## Key Functions
